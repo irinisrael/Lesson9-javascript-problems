@@ -6,40 +6,31 @@ body {
 	font-size: 24px;
 }
 
-.container {
+#container {
 	width: 100%;
+	position: relative;
 	margin-bottom: 50px;
 }
 
 .lexibanner {
 	width: 100%;
+	position: absolute;
 }
 
 h2 {
 	color: black;
+	position: absolute;
 	top: 400px;
 	left: 30px;
 	width: 100%;
-	margin-left: 10px;
 }
 
-.three-photos {
+#three-photos {
 	width: 100%;
 }
 
 .lexiphotos {
-	width: 27%;
-	padding: 1%;
-	background-color: white;
-	border: 5px solid darkblue;
-	margin: 1%;
-	margin-bottom: 50px;
+	width: 30%;
 	float: left;
-}
-
-p {
-	margin-left: 10px;
-	margin-right: 10px;
-	font-size: 16px;
-	color: black;
+	position: relative;
 }
