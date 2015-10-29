@@ -12,7 +12,10 @@ body {
 }
 
 .lexibanner {
-	width: 100%;
+	width: 97%;
+	padding: 1%;
+	background-color: white;
+	border: 5px solid darkblue;
 }
 
 h2 {
