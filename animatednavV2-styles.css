@@ -21,13 +21,6 @@ nav a:hover {
 	border: 10px dotted pink;
 }
 
-nav a:active {
-	color: green;
-	font-family: phosphate;
-	border: 10px double orange;
-	font-size: 50px;
-}
-
 .menu {
 	text-align: center;
 	margin-top: 250px;
