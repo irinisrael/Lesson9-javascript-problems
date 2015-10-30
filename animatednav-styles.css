@@ -1,0 +1,40 @@
+body {
+	font-family: verdana, sans-serif;
+	background: yellow;
+	width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+nav a{
+	font-size: 50px;
+	color: black;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+nav a:hover {
+	background-color: purple;
+	color: blue;
+	font-family: cracked;
+	font-size: 100px;
+	border: 10px dotted pink;
+}
+
+nav a:active {
+	color: green;
+	font-family: phosphate;
+	border: 10px double orange;
+	font-size: 50px;
+}
+
+.menu {
+	text-align: center;
+	margin-top: 250px;
+	border: 5px solid red;
+	background-color: white;
+}
+
+a:link {
+	text-decoration: none;
+}
